@@ -89,11 +89,18 @@ body {
   .covers{
     background-color: #81A0B2;   /* blue */
     padding: 3em;
+    border-radius: 20px;
     flex-wrap: wrap;
     gap: 2em;
     justify-content: space-evenly; 
     justify-content: center;
     display:inline-flex;
   }
- 
+
+  .icon{
+     display:flex;
+     justify-content: left;
+     align-items: end;
+  }
+
   
